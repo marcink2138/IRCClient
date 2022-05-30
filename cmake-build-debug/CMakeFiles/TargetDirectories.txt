@@ -1,0 +1,3 @@
+/home/mkarcz/Desktop/PS/IRCClient/cmake-build-debug/CMakeFiles/IRCClient.dir
+/home/mkarcz/Desktop/PS/IRCClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mkarcz/Desktop/PS/IRCClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
